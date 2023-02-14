@@ -1,0 +1,81 @@
+.App{
+    min-height:60vh;
+    background-color:darkblue;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+  margin-left: 610px;
+}
+
+.te{
+  margin-left: 400px;
+}
+
+.rec-form{
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.in{
+  width: 50%;
+  border-radius: 3%;
+  padding: 8px;
+}
+
+.but{
+  background-color: rgb(21, 105, 108);
+  border: none;
+  padding: 10px 20px;
+  color:aqua;
+}
+
+.info{
+  background-color:rgb(234, 176, 184);
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.data{
+  border-radius: 10px;
+  box-shadow: inset;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background: white;
+  align-items: center;
+  min-width: 30%;
+}
+.a{
+  color: aliceblue;
+}
+
+
+.img{
+  border-radius: 70%;
+  width: 180px;
+  height: 180px;
+}
+
+.tit{
+  border-radius: 8px;
+  box-shadow: inset;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background: white;
+  align-items: center;
+  min-width: 40%;
+  background-color:deeppink
+}
+
+.im{
+  margin-left: 39px;
+  
+}
